@@ -9,3 +9,5 @@ Contém:
 * K-Means
 * Apriori
 * Naive Bayes
+* SVM
+* PCA
