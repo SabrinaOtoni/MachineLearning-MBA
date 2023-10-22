@@ -12,3 +12,4 @@ Contém:
 * SVM
 * PCA
 * Dummy Classifier
+* MLP Classifier
