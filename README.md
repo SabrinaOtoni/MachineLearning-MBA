@@ -11,3 +11,4 @@ Contém:
 * Naive Bayes
 * SVM
 * PCA
+* Dummy Classifier
