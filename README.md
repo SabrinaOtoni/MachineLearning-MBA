@@ -8,3 +8,4 @@ Contém:
 * KNN
 * K-Means
 * Apriori
+* Naive Bayes
