@@ -3,7 +3,7 @@ Nesse repositório concentro todos meus projetos de Machine Learning realizados 
 
 Contém:
 * Algoritmos Genéticos
-* Regressão Linear
+* Regressão Linear, Logística
 * Árvores de Decisão (Classificação e Regressão)
 * KNN
 * K-Means
