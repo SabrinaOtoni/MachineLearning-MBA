@@ -11,5 +11,12 @@ Contém:
 * Naive Bayes
 * SVM
 * PCA
-* Dummy Classifier
-* MLP Classifier
+* DummyClassifier
+* MLPClassifier
+* RidgeClassifier
+* Técnicas de Ensemble
+* BayesianRidge
+* KernelRidge
+* ElasticNet
+* Lasso
+* SGDRegressor
